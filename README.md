@@ -9,12 +9,21 @@
 * The findings are visualised in [Tableau Public](https://public.tableau.com/views/M3_S1_ProjectbyIeva/RetentionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <img width="875" alt="image" src="https://github.com/Ieva-Ieva/Cohort-Retention-Analysis/assets/96474283/a2290953-29e5-4f50-b5d2-69568e1714fe">
 
-## The main findings: 																									
-1. The total number of initial users who subscribe to the services each week is 274,362.																									
-2. Subscribers used 3 types of connection devices, and the numbers of subscribers by each device differ greatly: desktop – 158,917, mobile – 109,195, tablet – 6,250 users.										3. The overall subscribers’ behavior does not vary based on the device used: users of all three devices maintain a retention rate of ~91%. 
-It’s interesting that that the 20 December tablet cohort as well as 20 December and 27 December mobile and desktop cohorts have the top retention rate (~97%) in week 1, which is the top retention rate for all users across all weeks.
-4. The average retention rates for each week show a gradual decline over time.																									
-5. The highest retention rate is observed in December and January cohorts, while November cohorts show relatively lower retention.
+## The main findings:
+
+1. **The total number of initial users who subscribe to the services each week is 274,362.**
+
+2. **Subscribers used 3 types of connection devices, and the numbers of subscribers by each device differ greatly:**
+   - **Desktop:** 158,917 users
+   - **Mobile:** 109,195 users
+   - **Tablet:** 6,250 users
+
+3. **The overall subscribers’ behavior does not vary based on the device used:** users of all three devices maintain a retention rate of approximately 91%.
+   - It’s interesting that the 20 December tablet cohort, as well as the 20 December and 27 December mobile and desktop cohorts, have the top retention rate (~97%) in week 1, which is the top retention rate for all users across all weeks.
+
+4. **The average retention rates for each week show a gradual decline over time.**
+
+5. **The highest retention rate is observed in December and January cohorts, while November cohorts show relatively lower retention.**
 
 ## Actionable Insights and Recommendations:
 
